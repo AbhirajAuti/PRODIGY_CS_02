@@ -7,4 +7,3 @@ Pixel Value Transformation: The pixel values (which represent colors) are modifi
 Key Usage: A cryptographic key is often used to control the manipulation process. The same key must be used during decryption to restore the original image.
 
 Chaos-Based Encryption: Some methods use chaotic maps or random number generators to shuffle or change pixel positions or values in a complex, non-repetitive manner.
-
